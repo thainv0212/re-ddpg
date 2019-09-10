@@ -2,13 +2,11 @@
 
 ## Deep Deterministic Policy Gradient
 Implementation of Deep Deterministic Policy Gradiet Algorithm (Lillicrap et al.[arXiv:1509.02971](http://arxiv.org/abs/1509.02971).) in Tensorflow
+
 Revised with python 3.6
-## How to use
-```
-git clone https://github.com/stevenpjg/ddpg-aigym.git
-cd ddpg-aigym
-python main.py
-```
+
+## Source 
+[git](https://github.com/stevenpjg/ddpg-aigym.git)
 
 ## During training
 <img src="https://www.stevenspielberg.me/projects/images/ddpg_train.gif" width="507" height="280" />
